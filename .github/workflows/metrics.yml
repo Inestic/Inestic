@@ -21,7 +21,6 @@ jobs:
           user: Inestic
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: large
           config_timezone: Europe/Moscow
           plugin_achievements: yes
           plugin_achievements_display: detailed
