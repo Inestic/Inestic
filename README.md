@@ -2,4 +2,4 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Inestic/Inestic/output/github-snake.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Inestic/Inestic/output/github-snake.svg#gh-light-mode-only)
 
-[<img align="left" width="400" alt="If you see this, it means my metrics are not working" src="https://github.com/Inestic/Inestic/blob/main/github-metrics.svg">](https://github.com/Inestic/Inestic)
+[<img align="left" alt="If you see this, it means my metrics are not working" src="https://raw.githubusercontent.com/Inestic/Inestic/main/github-metrics.svg">](https://github.com/Inestic/Inestic)
